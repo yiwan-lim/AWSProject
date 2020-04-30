@@ -1,4 +1,4 @@
-rom ubuntu:latest
+from ubuntu:latest
 
 WORKDIR backend-svr
 
